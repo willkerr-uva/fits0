@@ -22,3 +22,5 @@ Other files:
 - PlottingReview.ipynb a review of basic plot making in matplotlib and ROOT
 - Interpolate.ipynb: Jupyter notebook illustrating the Lagrange interpolation and cubic splines.
 - Lagrange.cpp: code to perform a Lagrange interpolation
+
+Work done: Exercise completed in LSQFit.py, and results shown in LSQFit.pdf
